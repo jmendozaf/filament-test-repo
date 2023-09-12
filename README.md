@@ -22,9 +22,6 @@ npm install
 ```
 npm run dev
 ```
-```
-npm run dev
-```
 > [http://filament-test-repo.test/](http://filament-test-repo.test/)
 
 > User: admin@admin.com 
