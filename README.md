@@ -22,7 +22,7 @@ npm install
 ```
 npm run dev
 ```
-> [http://filament-test-repo.test/](http://filament-test-repo.test/)
+> [http://filament-test-repo.test/admin](http://filament-test-repo.test/admin)
 
 > User: admin@admin.com 
 > Password: password
