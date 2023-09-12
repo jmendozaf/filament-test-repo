@@ -1,0 +1,3 @@
+@livewire('livewire-list-products')
+
+
